@@ -158,8 +158,6 @@ CREATE TABLE comments (
 - **JDBC**: Java Database Connectivity (JDBC) is used to interact with the MySQL database. SQL queries are executed for user management, post creation, and comment handling.
 - **MySQL**: MySQL serves as the back-end database for storing user data, blog posts, and comments. The database schema includes `users`, `blog_posts`, and `comments` tables.
 
-## Screenshots
-Will add soon
 
 ## Contributing
 Feel free to fork this repository and submit pull requests. If you encounter any issues, please open an issue on the repository.
